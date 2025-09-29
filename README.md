@@ -39,6 +39,7 @@ It highlights key applied ML skills:
 ---
 
 ## Running the Model  
+The model checkpoint can also be accessed directly on Hugging Face: [CustomerSupportLlama GGUF](https://huggingface.co/josephcawthorne/CustomerSupportLlama)  
 
 ### Install llama.cpp  
 ```bash
