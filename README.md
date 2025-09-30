@@ -3,18 +3,18 @@
 This repository demonstrates a complete end-to-end machine learning workflow: fine-tuning a large language model (Meta LLaMA 3.2) for a **customer support chatbot use case**, exporting it, and preparing it for local deployment in efficient GGUF format.  
 
 It highlights key applied ML skills:  
-- **Data preparation & training** — Jupyter notebook includes the fine-tuning pipeline and experiment setup.  
-- **Model adaptation** — Base model adapted for domain-specific customer support conversations.  
-- **Deployment readiness** — Model exported to GGUF for efficient inference with [llama.cpp](https://github.com/ggerganov/llama.cpp).  
-- **Reproducibility** — Clear usage steps included for local testing and integration.  
+- **Data preparation & training** - Jupyter notebook includes the fine-tuning pipeline and experiment setup.  
+- **Model adaptation** - Base model adapted for domain-specific customer support conversations.  
+- **Deployment readiness** - Model exported to GGUF for efficient inference with [llama.cpp](https://github.com/ggerganov/llama.cpp).  
+- **Reproducibility** - Clear usage steps included for local testing and integration.  
 
 ---
 
 ## Contents  
 
-- **`customer_support_llama_fine_tuning.ipynb`** — Full fine-tuning notebook (data loading, training loop, evaluation).  
-- **`llama-3.2-3b-it-ecommerce-chatbot-q4_k_m.gguf`** — Final optimized checkpoint (GGUF format).  
-- **`README.md`** — Documentation & usage guide.  
+- **`customer_support_llama_fine_tuning.ipynb`** - Full fine-tuning notebook (data loading, training loop, evaluation).  
+- **`llama-3.2-3b-it-ecommerce-chatbot-q4_k_m.gguf`** - Final optimized checkpoint (GGUF format).  
+- **`README.md`** - Documentation & usage guide.  
 
 ---
 
