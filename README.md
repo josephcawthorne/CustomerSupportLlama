@@ -1,4 +1,4 @@
-# Customer Support LLaMA 3.2 Fine-Tuning Project  
+# Fine-Tuned Meta Llama 3.2 for Customer Support
 
 This repository demonstrates a complete end-to-end machine learning workflow: fine-tuning a large language model (Meta LLaMA 3.2) for a **customer support chatbot use case**, exporting it, and preparing it for local deployment in efficient GGUF format.  
 
